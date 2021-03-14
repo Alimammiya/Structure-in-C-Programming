@@ -65,4 +65,4 @@ return 0;
 The price of the shoes is: 999
 ```
 
-Originally posted on - [Structure in C](Programminghttps://alimammiya.hashnode.dev/structure-in-c-programming)
+Originally posted on - [Structure in C](https://alimammiya.hashnode.dev/structure-in-c-programming)
